@@ -1,0 +1,21 @@
+img {width: 100%; }
+
+body {color:rgb(47, 67, 86)}
+
+.two-cols {
+  border: 1px solid #000; 
+  min-height:100px;
+  display: flex;
+}
+
+.kid1 {
+  border: 1px solid rgb(247, 166, 17);
+  min-height:100px;
+  flex: 1;
+  }
+
+.kid2 {
+  border: 1px solid rgb(103, 60, 204);
+  min-height:100px;
+  flex: 1;
+  }
